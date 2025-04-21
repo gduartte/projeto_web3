@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'evento',
     'insumo',
     'voluntario',
+    'projeto_web3',
 ]
 
 MIDDLEWARE = [
